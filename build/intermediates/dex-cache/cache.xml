@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Knowell\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_9b99225af45d31dbc077556fd6aec012a9e14504.jar" />
+    </item>
+    <item
+        jar="C:\Users\Knowell\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\2.0.0\afe8399d352713b66e597e9670c741d1e60ae923\okhttp-urlconnection-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-2.0.0_6c930b2fbeae5016fa818926d2ae0b6a2ec9dbfa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Knowell\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\library-2.4.0_76d018d2beb39537c72036632c3ce8b9b5ef6267.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_8894a15646f6860004f9e5d8438807278f6f82b8.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_8fb7e055e403432183b35783339b8b2796e17830.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\com.etsy.android.grid\library\1.0.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8218789edb56bdcfff7da48e892b37460fc707e2">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\com.etsy.android.grid-library-1.0.5_34b2d9974980134baaaf91a44dc96eee644d44cc.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_9426f2cb0a02a199be84ff636c03c0bafd1a89c9.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\com.github.castorflex.smoothprogressbar\library\1.0.1-SNAPSHOT\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="18189948ca1bbca4211c909019fe36fb14a5f495">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\com.github.castorflex.smoothprogressbar-library-1.0.1-SNAPSHOT_ce639336ed4e39deb2e0fda3c04b806ed3a831ff.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\com.daimajia.easing\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\com.daimajia.easing-library-1.0.1_8bae76fbe37755ba8e2bf5d7df5326b0eb51dec5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Knowell\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT_f19068f7c7b032e0515a4a655a2119d2aced9e1f.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_ce409f891c20763ffeba3880658369ba5e50305c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Knowell\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.0.0\4c8d1536dba3812cc1592090dc20c47a4ed3c35e\okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\okhttp-2.0.0_e6417159c16aa17d223f9845356eeae449bec42d.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_2656476f97a95fea7d745a496619efbc554600ec.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\com.doomonafireball.betterpickers\library\1.5.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="049eeaf0af623ac62c2786d52cf781320dce7e17">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\com.doomonafireball.betterpickers-library-1.5.4_320ae791830a0c4f87c104e7c8f07663af2a7616.jar" />
+    </item>
+    <item
+        jar="C:\Users\Knowell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_4c5453097996a7ee3a145dc502a0e39504c8f81c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Knowell\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.3\f474798fde03291398b1a016118b9809a79550b7\MPAndroidChart-v2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f474798fde03291398b1a016118b9809a79550b7">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.2.3_987c572c7d58843aa0103ffd619111b4f0758f25.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_1a432e5d9c90574f60879d8852249dd9af86b394.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\SWAK\ProcessButton\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="efddc289920c2f26cddd1f414948957411f38c11">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\SWAK-ProcessButton-unspecified_c9f0b92627e76bf6a579882f2417dda0fb7c174c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Knowell\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\gson-2.3.1_182109837f8a0064d0f8bc1b96fc0486baadaeff.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\com.daimajia.androidanimations\library\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\com.daimajia.androidanimations-library-1.1.3_b8d29149e9751ab0b15368231b592d64a24ee024.jar" />
+    </item>
+    <item
+        jar="C:\Users\Knowell\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.1\8f79e353ef77da6710e1f10d34fc3698eaaacbca\joda-time-2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8f79e353ef77da6710e1f10d34fc3698eaaacbca">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\joda-time-2.1_b0f2e0af2fec6a031e8f626103d7f865c1c9dc1b.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\org.jraf\android-switch-backport\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5be6154ea591aedafe737f93b365818681a9e305">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\org.jraf-android-switch-backport-1.4.0_f3139fe75e0dd58408c52b6d37e51ecfe5ba71ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Knowell\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\1.9.0\a681c044244d9fc375198588297a39ba78028423\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0_d3558356e65c9e36ece8f239cbe33d6a0d20e625.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\com.balysv\material-ripple\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="aba9317bc403d69d8a571c0a72acfe95698a5db0">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\com.balysv-material-ripple-1.0.1_ebe3190b049e716bc3cf52ffc3442321a4e1c119.jar" />
+    </item>
+    <item
+        jar="C:\Users\Knowell\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.0.0\2534c458682c73f5b9871131ab3098d3f987ca3\okio-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\okio-1.0.0_a3c63b151c8e272d4281fc6e95b98dd415981943.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\it.neokree\MaterialNavigationDrawer\1.3.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0640bc34b0f25196f82fe1e707a437bd4a405933">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\it.neokree-MaterialNavigationDrawer-1.3.3_08f99c9dd20559ad97055e30f1bd8206096afb29.jar" />
+    </item>
+    <item
+        jar="C:\Users\Knowell\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0_19adb69b8ff243e7116b3dec15069d3ea25eaba5.jar" />
+    </item>
+    <item
+        jar="D:\PayrollAndroid\SWAK\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\PayrollAndroid\SWAK\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_5765eb26d48c8686a67d3ff888c8933bfb99f768.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">SWAK</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">Splash Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">Swak.com.ph</string>
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+
+    <string name="empty_message">No record found</string>
+    <string name="loading_message">Please wait</string>
+    <string name="error_message">Oops! Unable to connect with the server. \n Check your internet connection and try again</string>
+
+    <string name="empty_button">Try again</string>
+    <string name="loading_button">Cancel</string>
+    <string name="error_button">Try again</string>
+
+    <!-- MISC -->
+    <string name="default_date">April 4, 2015</string>
+    <string name="txt_from">From</string>
+    <string name="txt_to">To</string>
+    <string name="txt_date_empty">--/--/----</string>
+    <string name="txt_we_dont_just_pay">We don\'t just pay.</string>
+    <string name="txt_we_analyze">We Analyze</string>
+    <string name="txt_payroll_analytics">PayrollAnalytics</string>
+    <string name="txt_employee_id">Employee ID</string>
+    <string name="txt_pwd">Password</string>
+
+    <!-- ACTIVITY_LEAVE -->
+    <string name="btn_close">Close</string>
+    <string name="btn_file">File</string>
+    <string name="title_activity_leave">File Leave</string>
+    <string name="txt_leave_type">Leave Type</string>
+    <string name="txt_no_days">No. of Day(s)</string>
+    <string name="txt_reason">Reason</string>
+
+    <!-- ACTIVITY_LOGIN -->
+    <string name="txt_invalid_credentials">Invalid Employee ID or Password</string>
+    <string name="txt_sign_in">Sign in</string>
+
+
+</resources>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="library-1.5.4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.4/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.doomonafireball.betterpickers/library/1.5.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.doomonafireball.betterpickers/library/1.5.4/19b831b83e2f01e0e9e3b2ae4fc4f8f21b052c52/library-1.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
