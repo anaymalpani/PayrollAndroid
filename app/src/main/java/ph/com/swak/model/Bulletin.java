@@ -21,7 +21,10 @@ public class Bulletin {
     public String result;
 
     public String getImage_url() {
-        return image_url;
+        // TODO
+        // return image_url;
+
+        return "/Files/Bulletin/IT 001.jpg";
     }
 
     public void setImage_url(String image_url) {
@@ -29,7 +32,10 @@ public class Bulletin {
     }
 
     public String getDesc() {
-        return desc;
+        // TODO
+        // return desc;
+
+        return "IT 001.jpg";
     }
 
     public void setDesc(String desc) {
@@ -48,8 +54,8 @@ public class Bulletin {
 
         JSONObject jsonObject = new JSONObject();
         try {
-            jsonObject.put("filename", desc);
-            jsonObject.put("url", image_url);
+            jsonObject.put("filename", "IT 001.jpg");
+            jsonObject.put("url", "/Files/Bulletin/IT 001.jpg");
             jsonObject.put("result", result);
 
             return jsonObject.toString();
